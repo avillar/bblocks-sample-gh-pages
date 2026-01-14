@@ -2,7 +2,7 @@
   "name": "My OGC Building Blocks repository",
   "abstract": "This is an example text for the abstract. It should be short and to the point.\nA \"Tell me more\" link will appear if there is an additional description with a longer explanation.\n",
   "description": "The description can be longer. Both **the abstract** *and the description* support Markdown,\nincluding [links](https://google.es).\n",
-  "modified": "2026-01-14T10:30:13.307019",
+  "modified": "2026-01-14T10:34:16.193351",
   "tooling": {
     "bblocks-postprocess": {
       "commitId": "\"e31f9b7205a141a60831e312d473ddf981d03c99",
@@ -30,7 +30,7 @@
       "itemClass": "schema",
       "register": "ogc-building-block-register",
       "version": "0.1",
-      "dateOfLastChange": "2026-01-13",
+      "dateOfLastChange": "2026-01-14",
       "link": "https://github.com/opengeospatial/bblock-template",
       "sources": [
         {
@@ -83,7 +83,7 @@
       "itemClass": "schema",
       "register": "ogc-building-block-examples",
       "version": "1.0",
-      "dateOfLastChange": "2026-01-13",
+      "dateOfLastChange": "2026-01-14",
       "sources": [
         {
           "title": "OGC API - Features, Part 1, 7.16.2: Feature Response",
@@ -93,8 +93,8 @@
       "maturity": "development",
       "scope": "unstable",
       "dependsOn": [
-        "ogc.bbr.template.mySchema",
-        "ogc.geo.features.feature"
+        "ogc.geo.features.feature",
+        "ogc.bbr.template.mySchema"
       ],
       "tags": [
         "feature",

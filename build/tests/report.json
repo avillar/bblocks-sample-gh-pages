@@ -10,7 +10,7 @@
       "title": "Validation report for ogc.bbr.template.mySchema - My Schema",
       "bblockName": "My Schema",
       "bblockId": "ogc.bbr.template.mySchema",
-      "generated": "2026-01-14T10:30:13.995784+00:00",
+      "generated": "2026-01-14T10:34:17.273340+00:00",
       "result": true,
       "items": [
         {
@@ -91,12 +91,12 @@
                   "focusNodes": {
                     "<https://www.ogc.org/rules/template/#testValues>": {
                       "nodes": [
-                        "_:Nfe2ebf763b1c4bd28c9d61f7575f30d7"
+                        "_:Nd9de82ec1cb245c4bc4eaa16a5c4bf70"
                       ]
                     }
                   },
                   "isError": false,
-                  "message": "Focus nodes for _sources/mySchema/rules.shacl:\n - Shape <https://www.ogc.org/rules/template/#testValues>: _:Nfe2ebf763b1c4bd28c9d61f7575f30d7\n"
+                  "message": "Focus nodes for _sources/mySchema/rules.shacl:\n - Shape <https://www.ogc.org/rules/template/#testValues>: _:Nd9de82ec1cb245c4bc4eaa16a5c4bf70\n"
                 }
               ]
             }
@@ -192,7 +192,7 @@
       "title": "Validation report for ogc.bbr.template.myFeature - Custom Feature",
       "bblockName": "Custom Feature",
       "bblockId": "ogc.bbr.template.myFeature",
-      "generated": "2026-01-14T10:30:14.095932+00:00",
+      "generated": "2026-01-14T10:34:17.399499+00:00",
       "result": true,
       "items": [
         {
