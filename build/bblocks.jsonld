@@ -159,7 +159,7 @@
   "name": "Building Blocks - My OGC Building Blocks repository",
   "abstract": "This is an example text for the abstract. It should be short and to the point.\nA \"Tell me more\" link will appear if there is an additional description with a longer explanation.\n",
   "description": "The description can be longer. Both **the abstract** *and the description* support Markdown,\nincluding [links](https://google.es).\n",
-  "modified": "2026-01-13T14:36:10.374599",
+  "modified": "2026-01-14T10:30:13.307019",
   "tooling": {
     "bblocks-postprocess": {
       "commitId": "\"e31f9b7205a141a60831e312d473ddf981d03c99",
@@ -311,8 +311,8 @@
       "maturity": "development",
       "scope": "unstable",
       "dependsOn": [
-        "bblocks://ogc.geo.features.feature",
-        "bblocks://ogc.bbr.template.mySchema"
+        "bblocks://ogc.bbr.template.mySchema",
+        "bblocks://ogc.geo.features.feature"
       ],
       "tags": [
         "feature",
