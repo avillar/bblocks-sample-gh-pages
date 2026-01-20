@@ -2,12 +2,12 @@
   "name": "My OGC Building Blocks repository",
   "abstract": "This is an example text for the abstract. It should be short and to the point.\nA \"Tell me more\" link will appear if there is an additional description with a longer explanation.\n",
   "description": "The description can be longer. Both **the abstract** *and the description* support Markdown,\nincluding [links](https://google.es).\n",
-  "modified": "2026-01-14T10:34:16.193351",
+  "modified": "2026-01-20T09:31:12.492901",
   "tooling": {
     "bblocks-postprocess": {
-      "commitId": "\"e31f9b7205a141a60831e312d473ddf981d03c99",
-      "shortCommitId": "\"e31f9b",
-      "date": "2026-01-13T14:30:58+00:00\""
+      "commitId": "\"da938c570c326dad590b43582182bcf06cc63198",
+      "shortCommitId": "\"da938c",
+      "date": "2026-01-19T11:49:34+00:00\""
     }
   },
   "gitRepository": "https://github.com/avillar/bblocks-sample-gh-pages",
@@ -30,7 +30,7 @@
       "itemClass": "schema",
       "register": "ogc-building-block-register",
       "version": "0.1",
-      "dateOfLastChange": "2026-01-14",
+      "dateOfLastChange": "2026-01-20",
       "link": "https://github.com/opengeospatial/bblock-template",
       "sources": [
         {
@@ -83,7 +83,7 @@
       "itemClass": "schema",
       "register": "ogc-building-block-examples",
       "version": "1.0",
-      "dateOfLastChange": "2026-01-14",
+      "dateOfLastChange": "2026-01-20",
       "sources": [
         {
           "title": "OGC API - Features, Part 1, 7.16.2: Feature Response",
